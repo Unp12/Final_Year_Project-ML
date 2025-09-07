@@ -87,8 +87,8 @@ Botnet Detection Detail <img width="1920" height="1000" alt="Screenshot (34)" sr
 <img width="1920" height="1021" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/915420b8-7978-442f-99f8-458fb6ab2e7c" />
 
 
-User Profile View <img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/14627b48-91a6-4f35-ac73-8751f0cdcf43" />
- 
+User Profile View <img width="1920" height="929" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/57fd52e7-34eb-456c-bd27-c2a9b20b9e33" />
+
 
 ## 🎓 Final Year Project
 
