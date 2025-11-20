@@ -34,7 +34,8 @@ This project is built using a combination of Python for the backend and data sci
 ## 📊 Project Workflow
 
 1.  **Data Preprocessing:** Network traffic data is loaded and cleaned.
-2.  **Correlation Analysis:** A correlation matrix is generated to understand the relationships between different features like `Sender_Port`, `Target_Port`, and `Duration`. 3.  **Model Training:** A machine learning model (e.g., SVM as shown in the screenshots) is trained on a labeled dataset to learn patterns associated with botnet attacks.
+2.  **Correlation Analysis:** A correlation matrix is generated to understand the relationships between different features like `Sender_Port`, `Target_Port`, and `Duration`.
+3.  **Model Training:** A machine learning model (e.g., SVM as shown in the screenshots) is trained on a labeled dataset to learn patterns associated with botnet attacks.
 4.  **Prediction:** The trained model is used to predict whether new, unseen network traffic is malicious.
 5.  **User Interface:** A web dashboard is used to present the results, allowing users to interact with the system and view predictions in real-time.
 
