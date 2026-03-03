@@ -50,8 +50,7 @@ This project is built using a combination of Python for the backend and data sci
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Unp12/Task_Mangement_Dashboard.git](https://github.com/Unp12/Task_Mangement_Dashboard.git)
-    cd Task_Mangement_Dashboard
+    git clone https://github.com/Unp12/Final_Year_Project-ML.git
     ```
 
 2.  **Install Python dependencies:**
